@@ -8,4 +8,4 @@ I am a...
 - Competitive Casual Gamer
 - Dog Lover
 
-Thank you for stopping by an checking out my library of code.
+Thank you for stopping by and checking out my library of code.
